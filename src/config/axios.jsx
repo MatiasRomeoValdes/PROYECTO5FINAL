@@ -3,9 +3,9 @@ import axios from 'axios'
 
 
 
-const backendUrlLocal = "https://ecommerce321.onrender.com/"
+const backendUrlLocal = "https://apiexpress-il8i.onrender.com/"
 
-const backendUrlProd = "https://ecommerce321.onrender.com/"
+const backendUrlProd = "https://apiexpress-il8i.onrender.com/s"
 
 const axiosClient = axios.create( {
 
