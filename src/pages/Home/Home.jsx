@@ -15,7 +15,7 @@ export function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="https://png.pngthttps://mandolina.co/wp-content/uploads/2023/05/Receta-Raviolis-de-espinaca-y-queso-ricotta.jpgree.com/thumb_back/fw800/background/20230407/pngtree-bay-area-has-beautiful-natural-scenery-in-summer-image_2144433.jpg"
+              src="https://ibb.co/Qvh2DgY"
               alt="First slide"
             />
             <Carousel.Caption>
