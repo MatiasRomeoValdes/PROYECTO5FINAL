@@ -15,7 +15,7 @@ export function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="https://ibb.co/Qvh2DgY"
+              src="https://img-global.cpcdn.com/recipes/fbadf1dd44fac0a5/680x482cq70/homemade-italian-penne-rigate-pasta-recipe-main-photo.jpg"
               alt="First slide"
             />
             <Carousel.Caption>
@@ -26,7 +26,7 @@ export function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="https://st.https://www.trattoria.cl/assets/img/recetas/tortellini-pesto-con-salmon.webp.com/1679308/1622/i/600/depositphotos_16225575-stock-photo-landscape-of-croatian-nature.jpg"
+              src="https://img-global.cpcdn.com/recipes/fbadf1dd44fac0a5/680x482cq70/homemade-italian-penne-rigate-pasta-recipe-main-photo.jpg"
               alt="Second slide"
             />
 
@@ -38,7 +38,7 @@ export function Home() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="https://https://i.blogs.es/8dc839/penne-rigate-salvia-tomate/840_560.jpg.pexels.com/photos/1619317/pexels-photo-1619317.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+              src="https://img-global.cpcdn.com/recipes/fbadf1dd44fac0a5/680x482cq70/homemade-italian-penne-rigate-pasta-recipe-main-photo.jpg"
               alt="Third slide"
             />
 
