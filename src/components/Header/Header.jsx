@@ -19,7 +19,7 @@ export const Header = () => {
           <Navbar.Brand href="/">
             <img
               alt=""
-              src="../src/assets/ecommerce.svg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp4zrF3uyts1mOO4UxfUOTSaGzZzodW6_FQA&usqp=CAU"
               width="30"
               height="30"
               className="d-inline-block align-top"
